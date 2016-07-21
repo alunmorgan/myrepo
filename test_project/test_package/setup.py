@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-      name="test_package",
+      name="first_code",
       author = "Alun Morgan",
       version = "0.1",
       packages = find_packages(),
